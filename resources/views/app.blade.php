@@ -10,7 +10,7 @@
     <link rel="apple-touch-icon" href="/logo192.png" />
     <link rel="manifest" href="/manifest.json" />
     <title>React App</title>
-    <script defer="defer" src="/static/js/main.e73ef5da.js"></script>
+    <script defer="defer" src="/static/js/main.66464131.js"></script>
     <link href="/static/css/main.c01f4657.css" rel="stylesheet">
 </head>
 
