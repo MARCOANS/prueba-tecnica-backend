@@ -15,7 +15,7 @@ Este es un proyecto de Laravel, un framework de PHP para el desarrollo de aplica
 1. Clona este repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/MARCOANS/prueba-tecnica-backend.git
    ```
 
 2. Navega al directorio del proyecto.
